@@ -6,7 +6,7 @@ const Sidebar = () => {
         <aside className="main-sidebar sidebar-dark-primary elevation-4">
             <a href="#" className="brand-link">
                 <img src={process.env.PUBLIC_URL + '/dist/img/AdminLTELogo.png'} alt="Cloud Sales Logo" className="brand-image img-circle elevation-3" style={{ opacity: '.8' }} />
-                <span className="brand-text font-weight-light">  Pacific Giants</span>
+                <span className="brand-text font-weight-light">Pacific</span>
             </a>
             <div className="sidebar">
                 <div className="user-panel mt-3 pb-3 mb-3 d-flex">
@@ -14,7 +14,7 @@ const Sidebar = () => {
                         <img src={process.env.PUBLIC_URL + 'https://pbs.twimg.com/profile_images/1332922460862255104/mSwZvNse_400x400.jpg'} className="img-circle elevation-2" />
                     </div>
                     <div className="info">
-                        <span className="d-block">bebo</span>
+                        <span className="d-block">holi uwu</span>
                     </div>
                 </div>
                 <nav className="mt-2">
